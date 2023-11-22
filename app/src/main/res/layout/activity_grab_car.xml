@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/grabcar"
+    tools:context=".GrabCar">
+
+    <Button
+        android:layout_width="295dp"
+        android:layout_height="35dp"
+        android:alpha="0.65"
+        android:background="@drawable/custom_background"
+        android:text="GrabCar Hemat                          Rp11.000"
+        android:textSize="11dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.775"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.362" />
+
+    <Button
+        android:layout_width="295dp"
+        android:layout_height="35dp"
+        android:alpha="0.65"
+        android:background="@drawable/custom_background"
+        android:text="GrabCar                                      Rp18.000"
+        android:textSize="11dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.775"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.456" />
+
+    <Button
+        android:layout_width="295dp"
+        android:layout_height="35dp"
+        android:alpha="0.65"
+        android:background="@drawable/custom_background"
+        android:text="GrabCar XL                                  Rp20.000"
+        android:textSize="11dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.775"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.551" />
+
+    <Button
+        android:layout_width="295dp"
+        android:layout_height="35dp"
+        android:alpha="0.65"
+        android:background="@drawable/custom_background"
+        android:text="GrabCar Protect                      Rp21.000"
+        android:textSize="11dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.775"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.643" />
+
+    <Button
+        android:layout_width="295dp"
+        android:layout_height="35dp"
+        android:alpha="0.65"
+        android:background="@drawable/custom_background"
+        android:text="GrabCar Protect+                   Rp22.000"
+        android:textSize="11dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.775"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.739" />
+
+    <Button
+        android:layout_width="295dp"
+        android:layout_height="35dp"
+        android:alpha="0.65"
+        android:background="@drawable/custom_background"
+        android:text="GrabGerak                                 Rp21.000"
+        android:textSize="11dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.775"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.831" />
+
+    <Button
+        android:layout_width="295dp"
+        android:layout_height="35dp"
+        android:alpha="0.65"
+        android:background="@drawable/custom_background"
+        android:text="GrabCar+                                 Rp23.000"
+        android:textSize="11dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.775"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.926" />
+
+    <Button
+        android:layout_width="104dp"
+        android:layout_height="40dp"
+        android:background="@drawable/round_btn"
+        android:onClick="openApp"
+        android:text="Lanjut"
+        android:textSize="15dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.903"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.152" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

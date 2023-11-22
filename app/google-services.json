@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267062616971",
+    "project_id": "wayfind-beab3",
+    "storage_bucket": "wayfind-beab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267062616971:android:c73405b775fd8be56ec58e",
+        "android_client_info": {
+          "package_name": "com.example.wayfind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267062616971-5fsl3ihr0sbrp5ojqtu27i2vsegpbp9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw7htb95PiF3yHHaeS96Dw8HbEizApzr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267062616971-5fsl3ihr0sbrp5ojqtu27i2vsegpbp9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
